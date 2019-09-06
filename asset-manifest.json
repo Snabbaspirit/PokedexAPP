@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/EPAM-Final-Project-PokedexAPP/static/css/main.139cb65e.chunk.css",
+    "main.js": "/EPAM-Final-Project-PokedexAPP/static/js/main.4a4ed5f5.chunk.js",
+    "main.js.map": "/EPAM-Final-Project-PokedexAPP/static/js/main.4a4ed5f5.chunk.js.map",
+    "runtime~main.js": "/EPAM-Final-Project-PokedexAPP/static/js/runtime~main.99abca1a.js",
+    "runtime~main.js.map": "/EPAM-Final-Project-PokedexAPP/static/js/runtime~main.99abca1a.js.map",
+    "static/css/2.266e55a5.chunk.css": "/EPAM-Final-Project-PokedexAPP/static/css/2.266e55a5.chunk.css",
+    "static/js/2.cbfb4c06.chunk.js": "/EPAM-Final-Project-PokedexAPP/static/js/2.cbfb4c06.chunk.js",
+    "static/js/2.cbfb4c06.chunk.js.map": "/EPAM-Final-Project-PokedexAPP/static/js/2.cbfb4c06.chunk.js.map",
+    "index.html": "/EPAM-Final-Project-PokedexAPP/index.html",
+    "precache-manifest.3165672989d3cb27f088f07baec55275.js": "/EPAM-Final-Project-PokedexAPP/precache-manifest.3165672989d3cb27f088f07baec55275.js",
+    "service-worker.js": "/EPAM-Final-Project-PokedexAPP/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/EPAM-Final-Project-PokedexAPP/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.139cb65e.chunk.css.map": "/EPAM-Final-Project-PokedexAPP/static/css/main.139cb65e.chunk.css.map",
+    "static/media/loading.gif": "/EPAM-Final-Project-PokedexAPP/static/media/loading.4d1ffdb4.gif",
+    "static/media/pattern.png": "/EPAM-Final-Project-PokedexAPP/static/media/pattern.84cd3210.png"
+  }
+}
